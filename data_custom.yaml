@@ -1,0 +1,6 @@
+train : C:\Users\tmachine\Desktop\yolo\train
+
+val : C:\Users\tmachine\Desktop\yolo\val
+
+nc: 2 
+names: ["cap", "jacket"]
